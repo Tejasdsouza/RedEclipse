@@ -31,7 +31,7 @@ RedEclipse is a simple, Rust-powered LAN packet analyzer designed to inspect and
 
 This project requires the **`x86_64-pc-windows-msvc`** Rust target.
 
-To ensure it's installed:
+ensure it's installed:
 
 If not then run these commands:
 
