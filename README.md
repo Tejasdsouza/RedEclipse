@@ -39,7 +39,7 @@ If not then run these commands:
 rustup install stable-x86_64-pc-windows-msvc
 rustup default stable-x86_64-pc-windows-msvc
 rustup override set stable-x86_64-pc-windows-msvc
-
+```
 ---
 
 ## :wrench: Setting Up Build Config (Important!)
@@ -52,7 +52,7 @@ To let Cargo find the `wpcap.lib` file from your Npcap SDK:
 ```toml
 [target.x86_64-pc-windows-msvc]
 rustflags = ["-L", "your/path/to/npcap-sdk/lib/x64"] 
-
+```
 ---
 ## :rocket: Getting Started
 
