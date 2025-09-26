@@ -57,7 +57,7 @@ rustflags = ["-L", "your/path/to/npcap-sdk/lib/x64"]
 ## :rocket: Getting Started
 
 ```bash
-git clone https://github.com/TejasDsouza7/RedEclipse.git
+git clone https://github.com/Tejasdsouza/RedEclipse.git
 cd RedEclipse
 cargo build
 cargo run
